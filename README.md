@@ -25,13 +25,13 @@ Make sure you have the following installed:
    ```
 
 2. **Install dependencies:**<br>
-For the backend:
+2.1. **For the backend:**
    ```bash
    cd backend
    npm install
    ```
 
-For the frontend:
+2.2. **For the frontend:**
    ```bash
    cd frontend
    npm install
