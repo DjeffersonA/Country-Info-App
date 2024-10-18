@@ -24,14 +24,14 @@ Make sure you have the following installed:
    cd country-information-app
    ```
 
-2. **Install dependencies:**
-**For the backend:**
+2. **Install dependencies:**<br>
+For the backend:
    ```bash
    cd backend
    npm install
    ```
 
-**For the frontend:**
+For the frontend:
    ```bash
    cd frontend
    npm install
