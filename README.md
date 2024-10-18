@@ -20,8 +20,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/country-information-app.git
-   cd country-information-app
+   git clone https://github.com/DjeffersonA/Country-Info-App
    ```
 
 2. **Install dependencies:**<br>
