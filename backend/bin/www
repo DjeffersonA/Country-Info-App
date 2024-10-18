@@ -1,0 +1,17 @@
+#!/usr/bin/env node
+
+const app = require('../app');
+const http = require('http');
+const PORT = process.env.PORT || 3000;
+
+// Create HTTP server
+const server = http.createServer(app);
+
+// Listen provided port
+server.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
+
+server.on('error', (error) => {
+  console.error('Server error: ', error);
+});
