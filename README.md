@@ -51,4 +51,4 @@ For the frontend:
    npm run dev
    ```
 
-3. **Access the application: Open your browser and navigate to http://localhost:3000.**
+3. **Access the application: Open your browser and navigate to http://localhost:3001.**
